@@ -96,12 +96,12 @@ Appearing near **Chorus flowers**, these beautiful petals will twirl down to the
 
 Renaming any mob in the game to **jeb_** will apply a **rainbow effect** to it. This feature varies the colour values of the mobs and will work better on colourful mobs such as Creepers, Piglins and Shulkers and will barely make a difference on Skeletons or Wither Skeletons. However, even mobs with fewer colours will glow after being renamed.
 
-<video width="360" height="300" autoplay loop muted>
+<video width="1080" height="900" autoplay loop muted>
     <source src="jeb_mobs+.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
 
-<video width="360" height="300" autoplay loop muted>
+<video width="360" height="300" autoplay loop>
     <source src="jeb_mobs-.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
