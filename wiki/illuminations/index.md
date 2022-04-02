@@ -5,16 +5,20 @@ layout: wiki
 curse_project: 292908
 ---
 
-**Illuminations** is a client sided Minecraft Fabric mod that adds multiple ambient particles in order to make your world more enjoyable at night or in dark places.
-This mod is compatible with the [Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer).
+**Illuminations** is a client-sided Minecraft Fabric mod that adds multiple ambient particles in order to make your world more enjoyable at night or in dark places.
+This mod also features compatibility with the [Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer).
 
 *(All screenshots with a bloom effect were taken with Canvas Renderer installed)*
 
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OwmCX_COS8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 ## Ambience
+
+<video width="700" height="900" controls autoplay loop muted>
+    <source src="test.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
 
 ### Overworld
 
@@ -94,7 +98,7 @@ Appearing near **Chorus flowers**, these beautiful petals will twirl down to the
 
 *(Requires [Satin API](https://www.curseforge.com/minecraft/mc-mods/satin-api/), feature disabled with Canvas and Iris because of compatibility issues*)
 
-Renaming any mob in the game to **jeb_** will apply a **rainbow effect** to it. This feature varies the colour values of the mobs and will work better on colourful mobs such as Creepers, Piglins and Shulkers and will barely make a difference on Skeletons or Wither Skeletons. However, even mobs with fewer colours will glow after being renamed.
+Renaming any mob in the game to **jeb_** will apply a **rainbow effect** to it. This feature varies the colour values of the mobs and will work better on colourful mobs such as Blazes, Drowneds and Creepers and will barely make a difference on Wolves or Skeletons. However, even mobs with fewer colours will glow after being renamed.
 
 <video width="360" height="300" controls autoplay loop muted>
     <source src="Jeb_Mobs+.mp4" type="video/mp4" />
