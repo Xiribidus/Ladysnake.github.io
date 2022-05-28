@@ -126,12 +126,12 @@ Every Illuminations Account automatically has **free access** to these **11 spin
     Your browser does not support the video tag.
 </video>
 
-<video width=500 control autoplay loop muted>
+<video width="450" control autoplay loop muted>
     <source src="twilight_aura.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
 
-<video width="350" control autoplay loop muted>
+<video width="450" control autoplay loop muted>
     <source src="will_o_wisp.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
@@ -154,30 +154,6 @@ It is recommended to use [mod menu](https://www.curseforge.com/minecraft/mc-mods
 Enables the different Halloween features being the **Eyes in the Dark**, the **Poltergeists** and the **Pumpkin Spirits**. ALWAYS will enable the features always while ENABLE will limit them to October.
 
 **ENABLE**/DISABLE/ALWAYS
-
-#### Eyes in the Dark Spawn Rate
-
-Manages the rate at which the **Eyes in the Dark** spawn.
-
-LOW/**MEDIUM**/HIGH
-
-#### Will o' Wisp Spawn Rate
-
-Manages the rate at which **Will o' Wisps** spawn.
-
-LOW/**MEDIUM**/HIGH/DISABLE
-
-#### Chorus Petals Spawn Multiplier
-
-Sets a multiplier to control the amount of **Chorus Petals** spawning from Chorus Flowers.
-
-0/**1**/2/.../9/10
-
-#### Spawn Density
-
-Controls the percentage of Illuminations spawns.
-
-0(Disabled)/.../**100(normal)**/.../1000(10x)
 
 #### Fireflies Spawn Always
 
