@@ -121,17 +121,17 @@ Every Illuminations Account automatically has **free access** to these **11 spin
 
 
 
-<video width="700" height="900" control autoplay loop muted>
+<video width="450" control autoplay loop muted>
     <source src="mooncult_crown.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
 
-<video width="700" height="900" control autoplay loop muted>
+<video width=500 control autoplay loop muted>
     <source src="twilight_aura.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
 
-<video width="700" height="900" control autoplay loop muted>
+<video width="350" control autoplay loop muted>
     <source src="will_o_wisp.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
