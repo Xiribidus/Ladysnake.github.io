@@ -15,10 +15,6 @@ This mod also features compatibility with the [Canvas Renderer](https://www.curs
 </div>
 ## Ambience
 
-<video width="700" height="900" controls autoplay loop muted>
-    <source src="test.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-</video>
 
 ### Overworld
 
@@ -123,129 +119,20 @@ Every Illuminations Account automatically has **free access** to these **11 spin
 
 ![Pride Heart Collection](PrideHeartCollection.png)
 
-### Auras
-
-#### Twilight Aura
-
-The **Twilight aura** creates colored fireflies that will orbit around the player. The color of the fireflies can be changed to any color you want via the Illuminations dashboard. If the player moves, they will leave a trail of these fireflies. **This aura is available to tier 1 donators.**
-
-![Twilight Aura](TwilightAura.gif)
-
-#### Auras (Donator Tier 2)
-
-#### Ghostly Aura
-
-The **Ghostly Aura** will summon the lost souls to scamper around you!
-
-![Ghostly Aura](GhostlyAura.gif)
-
-#### Chorus Aura
-
-The **Chorus Aura** makes you stand in a whirl of Chorus Petals, perfectly fit for your adventures in the end!
-
-![Chorus Aura](ChorusAura.gif)
-
-#### Prismarine Crystal Aura
-
-The power of the Guardians is strong with you! I can feel it... or rather see:
-
-![Prismarine Crystal Aura](PrismarineCrystalAura.gif)
-
-#### Golden Rod Aura
-
-This Aura will give you that extra bit of an ominous glint, summoning **Golden Rods** all around you!
-
-![Golden Rod Aura](GoldenRodAura.gif)
-
-#### Shadowbringer Soul Aura
-
-This dark Aura will strike fear in your enemies as you are sourrounded by a storm of shady ashes!
-
-![Shadowbringer Soul Aura](ShadowbringerSoulAura.gif)
-
-#### Sculk Tendrils Aura
-
-Are you excited for 1.18? This Aura will summon Tendrils from the **Deep Dark** to follow you and grow around your feet.
-
-![Sculk Tendrils Aura](SculkTendrilsAura.gif)
-
-#### Autumn Leaves Aura
-
-A **whirl of orange Leaves** following your footsteps to bring that cosy autumn feeling to your world!
-
-![Autumn Leaves Aura](AutumnLeavesAura.gif)
-
-#### Confetti Aura
-
-This Aura will provide the perfect ambience for your celebrations. The **Confetti** pieces will stay on the ground for up to 20 seconds, marking your way through the world!
-
-![Confetti Aura](ConfettiAura.gif)
 
 
-
-#### Prismatic Confetti Aura
-
-A **variation** of the **Confetti Aura** that can be adjusted to only be of one colour of your choice.
-
-![Prismatic Confetti Aura](PrismaticConfettiAura.gif)
-
-### Overheads
-
-**Overheads** are different hats that **tier 2 donators** can decide to wear:
-
-![Overheads](Overheads.png)
-
-### Pets
-
-Other than the pride hearts **tier 2 donators** can also equip other pets that will hover next to them and look at what their owner is looking at.
-
-#### Will o' Wisp
-
-A lost soul that escaped the horrors of the Nether and is now searching for reve- for you? It seems to just want a new friend and not a bloody revenge.
-
-![Wisp Pet](WispPet.gif)
-
-#### Golden Wisp
-
-You are going for the **shiny look**? In that case this pet might be the perfect match for your style, also looks great in combination with the [Golden Rod Aura](#golden-rod-aura)!
-
-![Golden Wisp Pet](GoldenWispPet.gif)
-
-#### Dissolution Wisp
-
-Classical **Dissolution Wisp**, for those who missed a friend...
-
-![Dissolution Wisp Pet](DissolutionWispPet.gif)
-
-#### Lanterns
-
-These 4 different Lanterns are your friendly **2-faced companions that fly and spin next to you** to brighten your day! They are also perfect for watching your back.
-
-![Lantern Pets](LanternPets.png)
-
-#### Founding Skull
-
-True villains always have some **true-villain-energy-pet**, so should you!
-
-![Founding Skull Pet](FoundingSkullPet.gif)
-
-#### Poltergeist
-
-A friendly and respectable companion, just don't expect much sleep at night, **Poltergeists** are said to be quite some noisy fellows!
-
-![Poltergeist Pet](PoltergeistPet.gif)
-
-#### Pumpkin Spirit
-
-This adopted Spirit that once spawned from a Jack o'Lantern might look a little grim sometimes but it will not bite you - most of the time that is.
-
-![Pumpkin Spirit Pet](PumpkinSpiritPet.gif)
-
-#### Jacko
-
-Jacko is a Jack o'Lantern that will **light itself when it is night** or dark, **otherwise** it will be **extinguished**.
-
-![Jacko Pet](JackoPet.png)
+<video width="700" height="900" control autoplay loop muted>
+    <source src="mooncult_crown.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+<video width="700" height="900" control autoplay loop muted>
+    <source src="twilight_aura.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+<video width="700" height="900" control autoplay loop muted>
+    <source src="will_o_wisp.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
 
 ## Configurability
 
