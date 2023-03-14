@@ -14,6 +14,11 @@
   description: Can be set to `LIVING` or `ALWAYS` to respectively keep the inventory on your soul when you split while your possessed entity is still living, or to always keep the inventory on your soul when possession stops for any reason.
   values: [NEVER, LIVING, ALWAYS]
   default: NEVER
+- name: dropVesselOnDisconnect
+  description: When switched on, every remnant player dissociates whenever they disconnect. They will get their body back when they rejoin, as long as nothing happened to it...
+  values: [true, false]
+  default: false
+  since: 2.0.0
 - name: possessionDetection
   description: Can be set to `DISABLED` or `HARD` to respectively disable hostiles detecting possessed mobs, or to make you more suspicious to them.
   values: [DISABLED, NORMAL, HARD]
