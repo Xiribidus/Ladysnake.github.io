@@ -14,6 +14,7 @@ Each layer of the core must have the same kind of Runestone.
 The core is encased in a **frame** of full [**Tachylite blocks**](#tachylite----) as seen in the picture below.
 
 An Obelisk also requires **Soul Sand or Soul Soil** in order to **power** up with **increasing needs as the width of the Obelisk is expanded**.
+An Obelisks Runestones will start fading into a more pale colour should their soul supply not be fulfilled fully by the surrounding soul blocks.
 Soul Sand and Soul Soil must be placed **below** the Obelisk with a clear **line of sight** in between block and structure.
 The valid area to place your Soul blocks is a square with the side length `10*width of the core` with the Obelisk in its center.
 
@@ -40,7 +41,7 @@ The Ichors can be changed by using dispensers, for example activating a dispense
 #### Soul Rift
 
 The Soul Rift can be crafted using 4 Tachylite Runestones, 4 Crying Obisian and 1 Enderpearl.
-Once implemented into an Obelisk, it will allow **dissociated remnant players** to **teleport** between different Soul Rifts as long as they **do not have [Attrition IV](effects#attrition)**.
+Once implemented into an Obelisk and **right-clicked** by the respective player, it will allow **dissociated remnants** to **teleport** between different Soul Rifts as long as they **do not have [Attrition IV](effects#attrition)**.
 Rifts will also **increase the level of Attrition** upon teleportation.
 
 Active Soul Rifts also have the side effect of attracting [**Ethereal Morticians**](mortician#ethereal-mortician) to roam around their Obelisk.

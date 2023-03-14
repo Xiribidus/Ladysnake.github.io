@@ -54,5 +54,6 @@ The Ichor Trades allow trading in [filled Soul Vessels](soul-vessels#filled-soul
 #### Ethereal Mortician
 
 Morticians spawning due to [Soul Rifts](obelisks#soul-rift) will have a **varied appearance** and be slightly **translucent**.
+They also do **not** drop Soul Vessels on death and begin to **fade out** into nothingness if their related **Soul Rift is destroyed**.
 
 ![Ethereal Mortician](img/EtherealMortician.png)

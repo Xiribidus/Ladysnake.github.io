@@ -14,10 +14,8 @@ Shattered Soul Vessels can be found with a 20% chance (with an additional 10% pe
 ## ![Soul Vessel](img/soul_vessel.png)Empty Soul Vessel
 
 Once repaired, Soul Vessels can be used to [**remove the soul**](gameplay#soul-state) of most mobs,
-excluding bosses and soulless mobs. Without soul, the mobs will become empty hulls
-which can be **possessed by remnant players**.
-
-`As of Beta 10, you can steal souls from Withers and Wardens, although this will not allow possession, instead damaging them.`
+excluding soulless mobs and bosses, who, in the case of Wither and Warden, take damage instead or, in case of the Ender Dragon or Elder Guardian, do not react at all.
+Without soul, the mobs will become empty hulls which can be **possessed by remnant players**.
 
 The process of removing a soul can fail however - in case of which the Soul Vessel shatters and
 your level of Attrition increases - and its chance of success depends on the player's level of Attrition,
