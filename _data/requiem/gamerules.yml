@@ -15,7 +15,7 @@
   values: [NEVER, LIVING, ALWAYS]
   default: NEVER
 - name: dropVesselOnDisconnect
-  description: When switched on, every remnant player dissociates whenever they disconnect. They will get their body back when they rejoin, as long as nothing happened to it...
+  description: If set to `true`, every remnant player dissociates whenever they disconnect, meaning their bodies are left behind, vulnerable to others. Rejoining will automatically merge the players with their host bodies again, given the respective host is still available.
   values: [true, false]
   default: false
   since: 2.0.0
