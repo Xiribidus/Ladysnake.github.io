@@ -38,7 +38,8 @@ Once a host is found, [it can be **possessed**](possession) **by clicking it** (
 
 **Remnant players can only possess soulless mobs!** Some mobs are **soulless by default**, such as undead mobs and golems. Others, like pigs, goats or axolotls must have their **soul removed before they can be possessed**. This is done using the [**Soul Vessel**](soul-vessels#empty-soul-vessel).
 
-The list of **soulless** Vanilla Minecraft mobs is as follows:
+{% capture summary %}<h2 id="soulless-mobs" List of Soulless Mobs {% endcapture %}
+{% capture content %}
 
 - **Undead Mobs**
   - Skeleton
@@ -57,6 +58,10 @@ The list of **soulless** Vanilla Minecraft mobs is as follows:
   - Iron Golem
   - Snow Golem
   - Shulker
+
+{% endcapture %}
+{% include details.liquid summary=summary content=content%}
+
 
 ![Zombie Possession](img/ZombiePossession.png)
 

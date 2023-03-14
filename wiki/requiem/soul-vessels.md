@@ -17,6 +17,8 @@ Once repaired, Soul Vessels can be used to [**remove the soul**](gameplay#soul-s
 excluding bosses and soulless mobs. Without soul, the mobs will become empty hulls
 which can be **possessed by remnant players**.
 
+`As of Beta 10, you can steal souls from Withers and Wardens, although this will not allow possession, instead damaging them.`
+
 The process of removing a soul can fail however - in case of which the Soul Vessel shatters and
 your level of Attrition increases - and its chance of success depends on the player's level of Attrition,
 the target's strength, health, max health, base armor, armor toughness as well as, despite being rare,
