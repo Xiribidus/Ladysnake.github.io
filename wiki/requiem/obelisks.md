@@ -41,12 +41,12 @@ The Ichors can be changed by using dispensers, for example activating a dispense
 #### Soul Rift
 
 The Soul Rift can be crafted using 4 Tachylite Runestones, 4 Crying Obisian and 1 Enderpearl.
-Once implemented into an Obelisk and **right-clicked** by the respective player, it will allow **dissociated remnants** to **teleport** between different Soul Rifts as long as they **do not have [Attrition IV](effects#attrition)**.
+Once implemented into an Obelisk, it will allow **dissociated remnant players** to **teleport** between different Soul Rifts as long as they **do not have [Attrition IV](effects#attrition)** and the target **Rift has been "witnessed"**, meaning it has been right-clicked once.
 Rifts will also **increase the level of Attrition** upon teleportation.
 
 Active Soul Rifts also have the side effect of attracting [**Ethereal Morticians**](mortician#ethereal-mortician) to roam around their Obelisk.
 
-Once you click the Soul Rift as a dissociated player you will see 3 different symbols:
+Once you click the Soul Rift as a dissociated player you will see 3 different icons:
 
 ![Rift Icon](img/RiftIconInactive.png) This icon is assigned to the Obelisk with the **Soul Rift you clicked**
 

@@ -22,7 +22,7 @@ With the [**Origins**](https://www.curseforge.com/minecraft/mc-mods/origins) mod
 
 **If the player is a demon and dies**, their **demon soul dissociates from the host** and escapes the destroyed body. 
 
-Later, this dissociation process can be done using the corresponding keybind ( "," by default) if the player has the [**Emancipation Soul Effect**](effects#emancipation), leaving behind the body and its items and effects but keeping the experience point and [Soul Effects](effects). 
+Later, this dissociation process can be done using the corresponding keybind ( "," by default) if the player has the [**Emancipation Soul Effect**](effects#emancipation), leaving behind the body and its items and effects but keeping the experience points and [Soul Effects](effects). 
 
 Golems can also be dissociated from at any given time.
 
