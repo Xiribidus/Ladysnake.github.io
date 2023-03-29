@@ -11,7 +11,7 @@ After finding a new host or transforming after death, the player is forced to pl
 **Possessed mobs**
 
 - Are generally **slower** than human players.
-- Do **not naturally regenerate health**. Please read the [**Special item uses**](#Special-Item-Mechanics) section for information on how to heal in other ways.
+- Do **not naturally regenerate health**. Please read the [**Special item uses**](#special-item-mechanics) section for information on how to heal in other ways.
 - Do **not** have the strength to swing their sword in a manner to do **area damage**.
 - Can **not sleep** with the **exception of Villagers, Cats and Foxes.**
 
