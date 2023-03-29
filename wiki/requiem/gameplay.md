@@ -18,6 +18,8 @@ In order to keep the challenge of Hardcore mode, this dialogue will **not** appe
 #### Origins Compatibility
 With the [**Origins**](https://www.curseforge.com/minecraft/mc-mods/origins) mod installed, the choice is made through its **selection screen** when first joining the world. This does **not replace the actual origin choice**, players choose both a soul type and an origin.
 
+Remnant players will only have the origin's effect in a [player shell](#becoming-human-again), otherwise their origin will be temporarily replaced with a "Vagrant" origin, indicating a dissociated or mob possessing state.
+
 ## Soul State
 
 **If the player is a demon and dies**, their **demon soul dissociates from the host** and escapes the destroyed body. 
@@ -83,7 +85,7 @@ The list of events that lead to a body transformation after death is as follows:
 To recover their humanity and get rid of their rotting body, an undead player has to go through the purification
 process every Zombie Villager must. By getting the **Weakness effect**, undead players are able to **eat Golden Apples**. After eating the Golden Apple, the weakness will turn into strength. As soon as the strength runs out, the **player turns back into human** form. This process **can even be done by others**, similar to how players can cure Zombie Villagers.
 
-**Note that only humanoid undead can be converted to player bodies.**
+**Note that only humanoid undead can be converted to player shells.**
 
 There are also some special conversions for certain mobs:
 
