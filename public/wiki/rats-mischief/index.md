@@ -29,7 +29,7 @@ Release of update 2.0:
 <div>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5e930bA4yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+  
 ## Wiki
 
 ### Rats
@@ -57,6 +57,7 @@ In combat, rats deal **comparatively little damage**, which they counter in numb
 
 #### Breeding and Plague Rats
 Tamed rats can be bred using any sort of food, producing [pet rat types](#Pet-types) as offspring.
+
 
 If two **rats with the same status effect** are bred there is a chance their **offspring is a plague rat**.
 Plague rats themselves are **immune to any status effects** and **pass on their associated effect** to any **target they attack**.
