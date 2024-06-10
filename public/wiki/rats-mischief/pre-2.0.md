@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Rat's Mischief
+title: Rat's Mischief pre 2.0
 slug: rats-mischief
 curse_project: 431787
 modrinth: true
@@ -8,6 +8,8 @@ modrinth: true
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Rat's Mischief** is a Fabric mod introducing the rats, a new mob that can be tamed and interacted with in various different ways!
+
+***This page is for the versions before the 2.0 update of Rat's Mischief, the updated wiki can be found [here](/wiki/rats-mischief/).***
 
 ## Video Showcases
 
