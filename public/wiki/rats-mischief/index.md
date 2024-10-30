@@ -102,10 +102,10 @@ TODO video showcase of the rat pouch concept, different rat pouches and their re
 {% capture content %}
 
 <figure class="recipes">
-{% recipe "ratsmischief:leather_rat_pouch" %}
-{% recipe "ratsmischief:twisted_rat_pouch" %}
-{% recipe "ratsmischief:purpur_rat_pouch" %}
-{% recipe "ratsmischief:rat_master_pouch" %}
+{% recipe "rats-mischief:leather_rat_pouch" %}
+{% recipe "rats-mischief:twisted_rat_pouch" %}
+{% recipe "rats-mischief:purpur_rat_pouch" %}
+{% recipe "rats-mischief:rat_master_pouch" %}
 </figure>
 
 {% endcapture %}
