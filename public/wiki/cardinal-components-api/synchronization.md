@@ -4,7 +4,14 @@ layout: cca_wiki
 tags: ['AutoSyncedComponent']
 ---
 
-Storing data is all well and good, but sometimes you need clients to be aware of what you put there. Most often it will be for visual effects, although it can be required for various clientside behaviour like player movement. And while you can set up your own packets and callbacks to keep your players updated, Cardinal Components API offers you facilities to handle synchronization with little to no effort.
+Storing data is all well and good, but sometimes you need clients to be aware of what you put there.
+Most often it will be for visual effects, although it can be required for various clientside behaviour like player movement.
+And while you can set up your own packets and callbacks to keep your players updated,
+Cardinal Components API offers you facilities to handle synchronization with little to no effort.
+
+Trying to send an update from the client to the server? Check out the new [Client-to-Server networking API](./modules/entity#client-to-server-networking)
+in the entity module.
+{:.admonition.admonition-note.admonition-icon}
 
 ## Synchronizing a Component
 
@@ -21,7 +28,10 @@ public class SyncedIntComponent implements IntComponent, AutoSyncedComponent {
     // getters, setters, and serialization methods omitted for brevity
 }
 ```
-With that, all the data that you save through your serialization methods gets automatically synchronized whenever a player starts tracking the provider to which your component is attached. If your component has its value set during initialization and never changes, this would *technically* be enough. However, most components store *dynamic* values, which means you need to notify players of your changes. For that, all you need to do is call [`ComponentKey#sync`](https://github.com/Ladysnake/Cardinal-Components-API/blob/master/cardinal-components-base/src/main/java/org/ladysnake/cca/api/v3/component/ComponentKey.java#L110) whenever you update your component.
+With that, all the data that you save through your serialization methods gets automatically synchronized whenever a player starts tracking the provider to which your component is attached.
+If your component has its value set during initialization and never changes, this would *technically* be enough.
+However, most components store *dynamic* values, which means you need to notify players of your changes.
+For that, all you need to do is call [`ComponentKey#sync`](https://github.com/Ladysnake/Cardinal-Components-API/blob/master/cardinal-components-base/src/main/java/org/ladysnake/cca/api/v3/component/ComponentKey.java#L110) whenever you update your component.
 
 *For information on how to obtain a `ComponentKey`, refer to the [Registering and using a component](registration) page.*
 
@@ -121,5 +131,26 @@ public class SyncedIntComponent implements IntComponent, AutoSyncedComponent {
             MinecraftClient.getInstance().particleManager.addEmitter(entity, ParticleTypes.TOTEM_OF_UNDYING, 20);
         }
     }
+}
+```
+
+## Client-optional components
+
+Since Cardinal Components API 6.0, **attempting to sync a component to a player who does not have your mod installed clientside
+will now result in a disconnection.**
+
+If the client is missing Cardinal Components API, they will receive a message saying "This server requires Cardinal Components API".
+
+To disable this behaviour, you can override the `isRequiredOnClient` method in your `PlayerSyncPredicate` (typically your `AutoSyncComponent` implementation).
+For example:
+
+```java
+public class MyClientOptionalComponent implements AutoSyncedComponent {
+    @Override
+    public boolean isRequiredOnClient() {
+        return false;
+    }
+
+    // ...
 }
 ```
