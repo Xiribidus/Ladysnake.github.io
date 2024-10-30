@@ -8,7 +8,7 @@ The version strings may be invalid maven identifiers, as they are currently pull
 {:.admonition .admonition-warning}
 
 - [Fabric dependency helper](https://fabricmc.net/develop/)
-- [Quilt dependency helper](https://lambdaurora.dev/tools/import_quilt.html)
+- [Quilt dependency helper](https://quiltmc.org/en/usage/latest-versions/)
 
 {% capture gradleproperties %}
 `gradle.properties`:
@@ -40,7 +40,7 @@ trinkets_version = <TRINKETS_VERSION>
 ```
 {% endcapture %}
 
-{%- buildscript
+{%- buildscript show_all_versions
     [blabber:2oRMVFgd],
     [cca:K01OU20C],
     [cloth:9s6osm5g],
